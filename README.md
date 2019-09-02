@@ -1,7 +1,7 @@
 # WhatDidYouSay
 This is a Demonstration of Python SpeechRecognition Module.
 
-Pre-requisites:
+Pre-requisites:<br>
     You need to install PyAudio to be able recieve input form Microphone.
     PyAudio is Binding Library in Python for port-audio.
 
